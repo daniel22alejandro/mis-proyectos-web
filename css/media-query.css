@@ -26,7 +26,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: aqua;
+    color: rgb(28, 136, 95);
 }
 .main-nav{
     height: 100%;
